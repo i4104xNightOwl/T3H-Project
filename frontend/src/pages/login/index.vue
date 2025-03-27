@@ -137,17 +137,16 @@
     }
 
     .divider {
-        height: 1px;
+        height: 2px;
         display: flex;
         justify-content: center;
         align-items: center;
         margin-bottom: 20px;
 
-        background-color: #c0bfbf;
-        border: 1px solid #c0bfbf;
+        background-color: #e4e3e3;
 
         span {
-            background-color: whitesmoke;
+            background-color: white;
             padding: 0 3px;
             font-size: 12px;
             font-weight: bold;
